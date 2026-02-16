@@ -2,6 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/Divergent-Discourses/DDC_CorpusStatistics)](https://github.com/Divergent-Discourses/DDC_CorpusStatistics/releases)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
+[![DOI](https://zenodo.org/badge/1159203837.svg)](https://doi.org/10.5281/zenodo.18662610)
 
 Comprehensive analysis tools for the Divergent Discourses Tibetan Newspaper Corpus (1950-1965).
 
