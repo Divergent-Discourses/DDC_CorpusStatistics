@@ -1,0 +1,10 @@
+# Core dependencies (none required for basic functionality)
+
+# Optional dependencies for Excel export
+openpyxl>=3.0.0; extra == 'excel'
+
+# Development dependencies
+pytest>=6.0; extra == 'dev'
+black>=22.0; extra == 'dev'
+flake8>=4.0; extra == 'dev'
+mypy>=0.950; extra == 'dev'
