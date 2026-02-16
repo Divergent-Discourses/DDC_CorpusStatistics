@@ -1,0 +1,17 @@
+Newspaper_Code,Newspaper_Name,Total_Issues_In_Corpus,Estimated_Frequency,Average_Gap_Days,Significant_Gaps_Count,Estimated_Missing_Issues
+CWN,Central Weekly News (krung dbyang gsar 'gyur),28,Bi-weekly,12.37,1,2
+DTF,Defend Tibet's Freedom (rang dbang srung skyob gsar shog),26,Monthly/Irregular,22.68,1,10
+FRD,Freedom (rang dbang gsar shog),205,Bi-weekly,8.55,3,15
+GDN,Ganze Daily (dkar mdzes nyin re'i gsar 'gyur),74,Weekly,4.15,1,29
+KDN,Kangding News (dar mdo'i gsar 'gyur),15,Bi-weekly,14.5,1,2
+MJN,Minjiang News (min kyang tshags dpar),83,Monthly/Irregular,25.82,2,47
+NIB,News in Brief (gsar 'gyur mdor bsdus),102,Weekly,5.45,1,1
+QTN,Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur),1009,Weekly,5.18,3,130
+RNB,RNB,4,Monthly/Irregular,55.33,2,2
+SGN,South Gansu News (kan lho gsar 'gyur),17,Weekly,4.94,0,0
+TDP,Tibet Daily Pictorial (bod ljongs nyin re'i gsar 'gyur par ris),2,Monthly/Irregular,139.0,1,3
+TID,Tibet Daily (bod ljongs nyin re'i gsar 'gyur),1720,2-3x per week,1.56,3,215
+TIF,Tibetan Freedom (bod mi'i rang dbang),248,Daily,1.2,3,6
+TIM,Tibet Mirror (yul phyog so so'i gsar 'gyur me long),110,Monthly/Irregular,46.35,25,54
+XMX,XMX,13,Monthly/Irregular,121.67,1,44
+ZMX,ZMX,3,Bi-weekly,12.5,0,0

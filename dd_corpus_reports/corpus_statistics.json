@@ -1,0 +1,859 @@
+{
+  "summary": {
+    "total_newspapers": 17,
+    "total_issues": 3660,
+    "total_pages": 16230,
+    "year_range": {
+      "min": 1950,
+      "max": 1965
+    }
+  },
+  "newspapers": {
+    "CWN": {
+      "name": "Central Weekly News (krung dbyang gsar 'gyur)",
+      "total_issues": 28,
+      "total_pages": 240,
+      "year_range": {
+        "min": 1963,
+        "max": 1964
+      },
+      "years": [
+        1963,
+        1964
+      ],
+      "pages_by_year": {
+        "1963": 224,
+        "1964": 16
+      },
+      "average_gap_days": 12.37
+    },
+    "DTF": {
+      "name": "Defend Tibet's Freedom (rang dbang srung skyob gsar shog)",
+      "total_issues": 26,
+      "total_pages": 310,
+      "year_range": {
+        "min": 1963,
+        "max": 1965
+      },
+      "years": [
+        1963,
+        1964,
+        1965
+      ],
+      "pages_by_year": {
+        "1963": 240,
+        "1964": 42,
+        "1965": 28
+      },
+      "average_gap_days": 22.68
+    },
+    "FRD": {
+      "name": "Freedom (rang dbang gsar shog)",
+      "total_issues": 205,
+      "total_pages": 1460,
+      "year_range": {
+        "min": 1960,
+        "max": 1965
+      },
+      "years": [
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965
+      ],
+      "pages_by_year": {
+        "1960": 40,
+        "1961": 228,
+        "1962": 312,
+        "1963": 398,
+        "1964": 418,
+        "1965": 64
+      },
+      "average_gap_days": 8.55
+    },
+    "GDN": {
+      "name": "Ganze Daily (dkar mdzes nyin re'i gsar 'gyur)",
+      "total_issues": 74,
+      "total_pages": 304,
+      "year_range": {
+        "min": 1959,
+        "max": 1959
+      },
+      "years": [
+        1959
+      ],
+      "pages_by_year": {
+        "1959": 304
+      },
+      "average_gap_days": 4.15
+    },
+    "GTN": {
+      "name": "Gyantse News (rgyal rtse gsar 'gyur)",
+      "total_issues": 1,
+      "total_pages": 4,
+      "year_range": {
+        "min": 1954,
+        "max": 1954
+      },
+      "years": [
+        1954
+      ],
+      "pages_by_year": {
+        "1954": 4
+      },
+      "average_gap_days": null
+    },
+    "KDN": {
+      "name": "Kangding News (dar mdo'i gsar 'gyur)",
+      "total_issues": 15,
+      "total_pages": 60,
+      "year_range": {
+        "min": 1954,
+        "max": 1955
+      },
+      "years": [
+        1954,
+        1955
+      ],
+      "pages_by_year": {
+        "1954": 8,
+        "1955": 52
+      },
+      "average_gap_days": 14.5
+    },
+    "MJN": {
+      "name": "Minjiang News (min kyang tshags dpar)",
+      "total_issues": 83,
+      "total_pages": 345,
+      "year_range": {
+        "min": 1953,
+        "max": 1959
+      },
+      "years": [
+        1953,
+        1954,
+        1955,
+        1959
+      ],
+      "pages_by_year": {
+        "1953": 92,
+        "1954": 36,
+        "1955": 96,
+        "1959": 121
+      },
+      "average_gap_days": 25.82
+    },
+    "NIB": {
+      "name": "News in Brief (gsar 'gyur mdor bsdus)",
+      "total_issues": 102,
+      "total_pages": 426,
+      "year_range": {
+        "min": 1953,
+        "max": 1955
+      },
+      "years": [
+        1953,
+        1954,
+        1955
+      ],
+      "pages_by_year": {
+        "1953": 34,
+        "1954": 270,
+        "1955": 122
+      },
+      "average_gap_days": 5.45
+    },
+    "QTN": {
+      "name": "Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur)",
+      "total_issues": 1009,
+      "total_pages": 3756,
+      "year_range": {
+        "min": 1951,
+        "max": 1965
+      },
+      "years": [
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1958,
+        1959,
+        1960,
+        1963,
+        1964,
+        1965
+      ],
+      "pages_by_year": {
+        "1951": 56,
+        "1952": 114,
+        "1953": 206,
+        "1954": 242,
+        "1955": 162,
+        "1956": 172,
+        "1957": 236,
+        "1958": 246,
+        "1959": 445,
+        "1960": 562,
+        "1963": 436,
+        "1964": 439,
+        "1965": 440
+      },
+      "average_gap_days": 5.18
+    },
+    "RNB": {
+      "name": "Unknown (RNB)",
+      "total_issues": 4,
+      "total_pages": 52,
+      "year_range": {
+        "min": 1954,
+        "max": 1955
+      },
+      "years": [
+        1954,
+        1955
+      ],
+      "pages_by_year": {
+        "1954": 35,
+        "1955": 17
+      },
+      "average_gap_days": 55.33
+    },
+    "SGN": {
+      "name": "South Gansu News (kan lho gsar 'gyur)",
+      "total_issues": 17,
+      "total_pages": 68,
+      "year_range": {
+        "min": 1959,
+        "max": 1959
+      },
+      "years": [
+        1959
+      ],
+      "pages_by_year": {
+        "1959": 68
+      },
+      "average_gap_days": 4.94
+    },
+    "TDP": {
+      "name": "Tibet Daily Pictorial (bod ljongs nyin re'i gsar 'gyur par ris)",
+      "total_issues": 2,
+      "total_pages": 16,
+      "year_range": {
+        "min": 1959,
+        "max": 1959
+      },
+      "years": [
+        1959
+      ],
+      "pages_by_year": {
+        "1959": 16
+      },
+      "average_gap_days": 139.0
+    },
+    "TID": {
+      "name": "Tibet Daily (bod ljongs nyin re'i gsar 'gyur)",
+      "total_issues": 1720,
+      "total_pages": 6942,
+      "year_range": {
+        "min": 1958,
+        "max": 1965
+      },
+      "years": [
+        1958,
+        1959,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965
+      ],
+      "pages_by_year": {
+        "1958": 82,
+        "1959": 474,
+        "1961": 1250,
+        "1962": 1141,
+        "1963": 1257,
+        "1964": 1334,
+        "1965": 1404
+      },
+      "average_gap_days": 1.56
+    },
+    "TIF": {
+      "name": "Tibetan Freedom (bod mi'i rang dbang)",
+      "total_issues": 248,
+      "total_pages": 730,
+      "year_range": {
+        "min": 1965,
+        "max": 1965
+      },
+      "years": [
+        1965
+      ],
+      "pages_by_year": {
+        "1965": 730
+      },
+      "average_gap_days": 1.2
+    },
+    "TIM": {
+      "name": "Tibet Mirror (yul phyog so so'i gsar 'gyur me long)",
+      "total_issues": 110,
+      "total_pages": 1403,
+      "year_range": {
+        "min": 1950,
+        "max": 1963
+      },
+      "years": [
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1958,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963
+      ],
+      "pages_by_year": {
+        "1950": 188,
+        "1951": 80,
+        "1952": 164,
+        "1953": 83,
+        "1954": 200,
+        "1955": 30,
+        "1956": 80,
+        "1957": 56,
+        "1958": 92,
+        "1959": 94,
+        "1960": 112,
+        "1961": 110,
+        "1962": 12,
+        "1963": 102
+      },
+      "average_gap_days": 46.35
+    },
+    "XMX": {
+      "name": "Unknown (XMX)",
+      "total_issues": 13,
+      "total_pages": 104,
+      "year_range": {
+        "min": 1955,
+        "max": 1959
+      },
+      "years": [
+        1955,
+        1959
+      ],
+      "pages_by_year": {
+        "1955": 84,
+        "1959": 20
+      },
+      "average_gap_days": 121.67
+    },
+    "ZMX": {
+      "name": "Unknown (ZMX)",
+      "total_issues": 3,
+      "total_pages": 10,
+      "year_range": {
+        "min": 1959,
+        "max": 1959
+      },
+      "years": [
+        1959
+      ],
+      "pages_by_year": {
+        "1959": 10
+      },
+      "average_gap_days": 12.5
+    }
+  },
+  "by_year": {
+    "1963": 2657,
+    "1964": 2249,
+    "1965": 2666,
+    "1960": 714,
+    "1961": 1588,
+    "1962": 1465,
+    "1959": 1552,
+    "1954": 795,
+    "1955": 563,
+    "1953": 415,
+    "1951": 136,
+    "1952": 278,
+    "1956": 252,
+    "1957": 292,
+    "1958": 420,
+    "1950": 188
+  },
+  "libraries": {
+    "UW": {
+      "total_pages": 240,
+      "total_issues": 28,
+      "newspapers": {
+        "CWN": {
+          "issues": 28,
+          "pages": 240,
+          "years": [
+            1963,
+            1964
+          ],
+          "year_range": {
+            "min": 1963,
+            "max": 1964
+          }
+        }
+      }
+    },
+    "IT": {
+      "total_pages": 2472,
+      "total_issues": 477,
+      "newspapers": {
+        "DTF": {
+          "issues": 14,
+          "pages": 240,
+          "years": [
+            1963
+          ],
+          "year_range": {
+            "min": 1963,
+            "max": 1963
+          }
+        },
+        "FRD": {
+          "issues": 199,
+          "pages": 1420,
+          "years": [
+            1961,
+            1962,
+            1963,
+            1964,
+            1965
+          ],
+          "year_range": {
+            "min": 1961,
+            "max": 1965
+          }
+        },
+        "QTN": {
+          "issues": 13,
+          "pages": 56,
+          "years": [
+            1951
+          ],
+          "year_range": {
+            "min": 1951,
+            "max": 1951
+          }
+        },
+        "TIF": {
+          "issues": 248,
+          "pages": 730,
+          "years": [
+            1965
+          ],
+          "year_range": {
+            "min": 1965,
+            "max": 1965
+          }
+        },
+        "TIM": {
+          "issues": 3,
+          "pages": 26,
+          "years": [
+            1953,
+            1963
+          ],
+          "year_range": {
+            "min": 1953,
+            "max": 1963
+          }
+        }
+      }
+    },
+    "CU": {
+      "total_pages": 965,
+      "total_issues": 162,
+      "newspapers": {
+        "DTF": {
+          "issues": 12,
+          "pages": 70,
+          "years": [
+            1964,
+            1965
+          ],
+          "year_range": {
+            "min": 1964,
+            "max": 1965
+          }
+        },
+        "NIB": {
+          "issues": 6,
+          "pages": 24,
+          "years": [
+            1954,
+            1955
+          ],
+          "year_range": {
+            "min": 1954,
+            "max": 1955
+          }
+        },
+        "QTN": {
+          "issues": 104,
+          "pages": 246,
+          "years": [
+            1958
+          ],
+          "year_range": {
+            "min": 1958,
+            "max": 1958
+          }
+        },
+        "TIM": {
+          "issues": 40,
+          "pages": 625,
+          "years": [
+            1950,
+            1951,
+            1952,
+            1953,
+            1954,
+            1956,
+            1958,
+            1961,
+            1962
+          ],
+          "year_range": {
+            "min": 1950,
+            "max": 1962
+          }
+        }
+      }
+    },
+    "BD": {
+      "total_pages": 40,
+      "total_issues": 6,
+      "newspapers": {
+        "FRD": {
+          "issues": 6,
+          "pages": 40,
+          "years": [
+            1960
+          ],
+          "year_range": {
+            "min": 1960,
+            "max": 1960
+          }
+        }
+      }
+    },
+    "OI": {
+      "total_pages": 1189,
+      "total_issues": 306,
+      "newspapers": {
+        "GDN": {
+          "issues": 73,
+          "pages": 290,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        },
+        "MJN": {
+          "issues": 27,
+          "pages": 121,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        },
+        "QTN": {
+          "issues": 48,
+          "pages": 190,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        },
+        "SGN": {
+          "issues": 17,
+          "pages": 68,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        },
+        "TDP": {
+          "issues": 2,
+          "pages": 16,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        },
+        "TID": {
+          "issues": 133,
+          "pages": 474,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        },
+        "XMX": {
+          "issues": 3,
+          "pages": 20,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        },
+        "ZMX": {
+          "issues": 3,
+          "pages": 10,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        }
+      }
+    },
+    "RB": {
+      "total_pages": 14,
+      "total_issues": 2,
+      "newspapers": {
+        "GDN": {
+          "issues": 2,
+          "pages": 14,
+          "years": [
+            1959
+          ],
+          "year_range": {
+            "min": 1959,
+            "max": 1959
+          }
+        }
+      }
+    },
+    "LT": {
+      "total_pages": 20,
+      "total_issues": 3,
+      "newspapers": {
+        "GTN": {
+          "issues": 1,
+          "pages": 4,
+          "years": [
+            1954
+          ],
+          "year_range": {
+            "min": 1954,
+            "max": 1954
+          }
+        },
+        "NIB": {
+          "issues": 2,
+          "pages": 16,
+          "years": [
+            1953
+          ],
+          "year_range": {
+            "min": 1953,
+            "max": 1953
+          }
+        }
+      }
+    },
+    "MV": {
+      "total_pages": 2112,
+      "total_issues": 371,
+      "newspapers": {
+        "KDN": {
+          "issues": 15,
+          "pages": 60,
+          "years": [
+            1954,
+            1955
+          ],
+          "year_range": {
+            "min": 1954,
+            "max": 1955
+          }
+        },
+        "MJN": {
+          "issues": 56,
+          "pages": 224,
+          "years": [
+            1953,
+            1954,
+            1955
+          ],
+          "year_range": {
+            "min": 1953,
+            "max": 1955
+          }
+        },
+        "NIB": {
+          "issues": 94,
+          "pages": 386,
+          "years": [
+            1953,
+            1954,
+            1955
+          ],
+          "year_range": {
+            "min": 1953,
+            "max": 1955
+          }
+        },
+        "QTN": {
+          "issues": 124,
+          "pages": 554,
+          "years": [
+            1953,
+            1954,
+            1955
+          ],
+          "year_range": {
+            "min": 1953,
+            "max": 1955
+          }
+        },
+        "RNB": {
+          "issues": 4,
+          "pages": 52,
+          "years": [
+            1954,
+            1955
+          ],
+          "year_range": {
+            "min": 1954,
+            "max": 1955
+          }
+        },
+        "TIM": {
+          "issues": 68,
+          "pages": 752,
+          "years": [
+            1950,
+            1951,
+            1952,
+            1953,
+            1954,
+            1955,
+            1956,
+            1957,
+            1958,
+            1959,
+            1960,
+            1961,
+            1963
+          ],
+          "year_range": {
+            "min": 1950,
+            "max": 1963
+          }
+        },
+        "XMX": {
+          "issues": 10,
+          "pages": 84,
+          "years": [
+            1955
+          ],
+          "year_range": {
+            "min": 1955,
+            "max": 1955
+          }
+        }
+      }
+    },
+    "SB": {
+      "total_pages": 9096,
+      "total_issues": 2282,
+      "newspapers": {
+        "QTN": {
+          "issues": 720,
+          "pages": 2710,
+          "years": [
+            1952,
+            1955,
+            1956,
+            1957,
+            1959,
+            1960,
+            1963,
+            1964,
+            1965
+          ],
+          "year_range": {
+            "min": 1952,
+            "max": 1965
+          }
+        },
+        "TID": {
+          "issues": 1562,
+          "pages": 6386,
+          "years": [
+            1961,
+            1962,
+            1963,
+            1964,
+            1965
+          ],
+          "year_range": {
+            "min": 1961,
+            "max": 1965
+          }
+        }
+      }
+    },
+    "FR": {
+      "total_pages": 82,
+      "total_issues": 25,
+      "newspapers": {
+        "TID": {
+          "issues": 25,
+          "pages": 82,
+          "years": [
+            1958
+          ],
+          "year_range": {
+            "min": 1958,
+            "max": 1958
+          }
+        }
+      }
+    }
+  }
+}

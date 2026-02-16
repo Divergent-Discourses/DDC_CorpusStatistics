@@ -1,0 +1,717 @@
+================================================================================
+LIBRARY HOLDINGS REPORT
+Divergent Discourses Corpus
+================================================================================
+
+Report generated: 2026-02-16 16:42:32
+Corpus location: C:\Users\fxerh\OneDrive\_DIVERGE_materials\Tibetan_Newspapers\_Diverge_Corpus_processed
+
+================================================================================
+SUMMARY BY LIBRARY
+================================================================================
+
+BD - Bodleian Library, Oxford
+  Newspapers: 1
+  Issues: 6
+  Pages: 40
+
+CU - Columbia University, New York
+  Newspapers: 4
+  Issues: 162
+  Pages: 965
+
+FR - Private Collection (Françoise Robin)
+  Newspapers: 1
+  Issues: 25
+  Pages: 82
+
+IT - University of Vienna
+  Newspapers: 5
+  Issues: 477
+  Pages: 2472
+
+LT - Library of Tibetan Works and Archives
+  Newspapers: 2
+  Issues: 3
+  Pages: 20
+
+MV - Grassi Museum für Völkerkunde, Leipzig
+  Newspapers: 7
+  Issues: 371
+  Pages: 2112
+
+OI - Oriental Institute, Prague
+  Newspapers: 8
+  Issues: 306
+  Pages: 1189
+
+RB - Private Collection (Robert Barnett)
+  Newspapers: 1
+  Issues: 2
+  Pages: 14
+
+SB - Staatsbibliothek zu Berlin
+  Newspapers: 2
+  Issues: 2282
+  Pages: 9096
+
+UW - University of Washington
+  Newspapers: 1
+  Issues: 28
+  Pages: 240
+
+
+================================================================================
+DETAILED HOLDINGS BY LIBRARY
+================================================================================
+
+
+BD - Bodleian Library, Oxford
+--------------------------------------------------------------------------------
+
+FRD - Freedom (rang dbang gsar shog)
+  Issues: 6
+  Pages: 40
+  Years: 1960
+  Coverage: 1960-1960
+  Shelfmarks: Driver
+  Year-by-year:
+    1960: 6 issues, 40 pages
+
+
+CU - Columbia University, New York
+--------------------------------------------------------------------------------
+
+DTF - Defend Tibet's Freedom (rang dbang srung skyob gsar shog)
+  Issues: 12
+  Pages: 70
+  Years: 1964, 1965
+  Coverage: 1964-1965
+  Shelfmarks: AN6.T6.R36
+  Year-by-year:
+    1964: 5 issues, 42 pages
+    1965: 7 issues, 28 pages
+
+NIB - News in Brief (gsar 'gyur mdor bsdus)
+  Issues: 6
+  Pages: 24
+  Years: 1954, 1955
+  Coverage: 1954-1955
+  Shelfmarks:  AN6.T6G76
+  Year-by-year:
+    1954: 2 issues, 8 pages
+    1955: 4 issues, 16 pages
+
+QTN - Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur)
+  Issues: 104
+  Pages: 246
+  Years: 1958
+  Coverage: 1958-1958
+  Shelfmarks: AN6.T6M4 
+  Year-by-year:
+    1958: 104 issues, 246 pages
+
+TIM - Tibet Mirror (yul phyog so so'i gsar 'gyur me long)
+  Issues: 40
+  Pages: 625
+  Years: 1950, 1951, 1952, 1953, 1954, 1956, 1958, 1961, 1962
+  Coverage: 1950-1962
+  Shelfmarks: DS786.A1.Y85, DS786.A1Y85 
+  Year-by-year:
+    1950: 9 issues, 182 pages
+    1951: 5 issues, 76 pages
+    1952: 9 issues, 156 pages
+    1953: 5 issues, 47 pages
+    1954: 2 issues, 24 pages
+    1956: 4 issues, 44 pages
+    1958: 3 issues, 36 pages
+    1961: 2 issues, 48 pages
+    1962: 1 issues, 12 pages
+
+
+FR - Private Collection (Françoise Robin)
+--------------------------------------------------------------------------------
+
+TID - Tibet Daily (bod ljongs nyin re'i gsar 'gyur)
+  Issues: 25
+  Pages: 82
+  Years: 1958
+  Coverage: 1958-1958
+  Year-by-year:
+    1958: 25 issues, 82 pages
+
+
+IT - University of Vienna
+--------------------------------------------------------------------------------
+
+DTF - Defend Tibet's Freedom (rang dbang srung skyob gsar shog)
+  Issues: 14
+  Pages: 240
+  Years: 1963
+  Coverage: 1963-1963
+  Shelfmarks: AC16810250
+  Year-by-year:
+    1963: 14 issues, 240 pages
+
+FRD - Freedom (rang dbang gsar shog)
+  Issues: 199
+  Pages: 1420
+  Years: 1961, 1962, 1963, 1964, 1965
+  Coverage: 1961-1965
+  Shelfmarks: AC16809715
+  Year-by-year:
+    1961: 40 issues, 228 pages
+    1962: 49 issues, 312 pages
+    1963: 51 issues, 398 pages
+    1964: 51 issues, 418 pages
+    1965: 8 issues, 64 pages
+
+QTN - Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur)
+  Issues: 13
+  Pages: 56
+  Years: 1951
+  Coverage: 1951-1951
+  Shelfmarks: AC16863999
+  Year-by-year:
+    1951: 13 issues, 56 pages
+
+TIF - Tibetan Freedom (bod mi'i rang dbang)
+  Issues: 248
+  Pages: 730
+  Years: 1965
+  Coverage: 1965-1965
+  Shelfmarks: AC16864113
+  Year-by-year:
+    1965: 248 issues, 730 pages
+
+TIM - Tibet Mirror (yul phyog so so'i gsar 'gyur me long)
+  Issues: 3
+  Pages: 26
+  Years: 1953, 1963
+  Coverage: 1953-1963
+  Shelfmarks: AC16864150
+  Year-by-year:
+    1953: 2 issues, 14 pages
+    1963: 1 issues, 12 pages
+
+
+LT - Library of Tibetan Works and Archives
+--------------------------------------------------------------------------------
+
+GTN - Gyantse News (rgyal rtse gsar 'gyur)
+  Issues: 1
+  Pages: 4
+  Years: 1954
+  Coverage: 1954-1954
+  Year-by-year:
+    1954: 1 issues, 4 pages
+
+NIB - News in Brief (gsar 'gyur mdor bsdus)
+  Issues: 2
+  Pages: 16
+  Years: 1953
+  Coverage: 1953-1953
+  Year-by-year:
+    1953: 2 issues, 16 pages
+
+
+MV - Grassi Museum für Völkerkunde, Leipzig
+--------------------------------------------------------------------------------
+
+KDN - Kangding News (dar mdo'i gsar 'gyur)
+  Issues: 15
+  Pages: 60
+  Years: 1954, 1955
+  Coverage: 1954-1955
+  Shelfmarks: ASZAG10
+  Year-by-year:
+    1954: 2 issues, 8 pages
+    1955: 13 issues, 52 pages
+
+MJN - Minjiang News (min kyang tshags dpar)
+  Issues: 56
+  Pages: 224
+  Years: 1953, 1954, 1955
+  Coverage: 1953-1955
+  Shelfmarks: ASZAG8
+  Year-by-year:
+    1953: 23 issues, 92 pages
+    1954: 9 issues, 36 pages
+    1955: 24 issues, 96 pages
+
+NIB - News in Brief (gsar 'gyur mdor bsdus)
+  Issues: 94
+  Pages: 386
+  Years: 1953, 1954, 1955
+  Coverage: 1953-1955
+  Shelfmarks: ASZAG9
+  Year-by-year:
+    1953: 4 issues, 18 pages
+    1954: 64 issues, 262 pages
+    1955: 26 issues, 106 pages
+
+QTN - Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur)
+  Issues: 124
+  Pages: 554
+  Years: 1953, 1954, 1955
+  Coverage: 1953-1955
+  Shelfmarks: ASZAG12
+  Year-by-year:
+    1953: 50 issues, 206 pages
+    1954: 48 issues, 242 pages
+    1955: 26 issues, 106 pages
+
+RNB - RNB
+  Issues: 4
+  Pages: 52
+  Years: 1954, 1955
+  Coverage: 1954-1955
+  Shelfmarks: Schubert
+  Year-by-year:
+    1954: 2 issues, 35 pages
+    1955: 2 issues, 17 pages
+
+TIM - Tibet Mirror (yul phyog so so'i gsar 'gyur me long)
+  Issues: 68
+  Pages: 752
+  Years: 1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1963
+  Coverage: 1950-1963
+  Shelfmarks: ASZAG11
+  Year-by-year:
+    1950: 1 issues, 6 pages
+    1951: 1 issues, 4 pages
+    1952: 1 issues, 8 pages
+    1953: 3 issues, 22 pages
+    1954: 14 issues, 176 pages
+    1955: 3 issues, 30 pages
+    1956: 5 issues, 36 pages
+    1957: 6 issues, 56 pages
+    1958: 6 issues, 56 pages
+    1959: 8 issues, 94 pages
+    1960: 8 issues, 112 pages
+    1961: 5 issues, 62 pages
+    1963: 7 issues, 90 pages
+
+XMX - XMX
+  Issues: 10
+  Pages: 84
+  Years: 1955
+  Coverage: 1955-1955
+  Shelfmarks: ASZAG7
+  Year-by-year:
+    1955: 10 issues, 84 pages
+
+
+OI - Oriental Institute, Prague
+--------------------------------------------------------------------------------
+
+GDN - Ganze Daily (dkar mdzes nyin re'i gsar 'gyur)
+  Issues: 73
+  Pages: 290
+  Years: 1959
+  Coverage: 1959-1959
+  Shelfmarks: RB, XIV92-1959
+  Year-by-year:
+    1959: 73 issues, 290 pages
+
+MJN - Minjiang News (min kyang tshags dpar)
+  Issues: 27
+  Pages: 121
+  Years: 1959
+  Coverage: 1959-1959
+  Shelfmarks: XIV93-1959
+  Year-by-year:
+    1959: 27 issues, 121 pages
+
+QTN - Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur)
+  Issues: 48
+  Pages: 190
+  Years: 1959
+  Coverage: 1959-1959
+  Shelfmarks: XIV85-1959
+  Year-by-year:
+    1959: 48 issues, 190 pages
+
+SGN - South Gansu News (kan lho gsar 'gyur)
+  Issues: 17
+  Pages: 68
+  Years: 1959
+  Coverage: 1959-1959
+  Shelfmarks: XIV90-1959
+  Year-by-year:
+    1959: 17 issues, 68 pages
+
+TDP - Tibet Daily Pictorial (bod ljongs nyin re'i gsar 'gyur par ris)
+  Issues: 2
+  Pages: 16
+  Years: 1959
+  Coverage: 1959-1959
+  Shelfmarks: XV 86-1959
+  Year-by-year:
+    1959: 2 issues, 16 pages
+
+TID - Tibet Daily (bod ljongs nyin re'i gsar 'gyur)
+  Issues: 133
+  Pages: 474
+  Years: 1959
+  Coverage: 1959-1959
+  Shelfmarks: XIV91-1959
+  Year-by-year:
+    1959: 133 issues, 474 pages
+
+XMX - XMX
+  Issues: 3
+  Pages: 20
+  Years: 1959
+  Coverage: 1959-1959
+  Shelfmarks: XIV89-1959
+  Year-by-year:
+    1959: 3 issues, 20 pages
+
+ZMX - ZMX
+  Issues: 3
+  Pages: 10
+  Years: 1959
+  Coverage: 1959-1959
+  Shelfmarks: XIV88-1959
+  Year-by-year:
+    1959: 3 issues, 10 pages
+
+
+RB - Private Collection (Robert Barnett)
+--------------------------------------------------------------------------------
+
+GDN - Ganze Daily (dkar mdzes nyin re'i gsar 'gyur)
+  Issues: 2
+  Pages: 14
+  Years: 1959
+  Coverage: 1959-1959
+  Year-by-year:
+    1959: 2 issues, 14 pages
+
+
+SB - Staatsbibliothek zu Berlin
+--------------------------------------------------------------------------------
+
+QTN - Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur)
+  Issues: 720
+  Pages: 2710
+  Years: 1952, 1955, 1956, 1957, 1959, 1960, 1963, 1964, 1965
+  Coverage: 1952-1965
+  Shelfmarks: Zsn128163MR, Zsn128163MR0
+  Year-by-year:
+    1952: 26 issues, 114 pages
+    1955: 20 issues, 56 pages
+    1956: 70 issues, 172 pages
+    1957: 104 issues, 236 pages
+    1959: 55 issues, 255 pages
+    1960: 138 issues, 562 pages
+    1963: 102 issues, 436 pages
+    1964: 101 issues, 439 pages
+    1965: 104 issues, 440 pages
+
+TID - Tibet Daily (bod ljongs nyin re'i gsar 'gyur)
+  Issues: 1562
+  Pages: 6386
+  Years: 1961, 1962, 1963, 1964, 1965
+  Coverage: 1961-1965
+  Shelfmarks: Zsn128162MR, Zsn128162MR0
+  Year-by-year:
+    1961: 308 issues, 1250 pages
+    1962: 303 issues, 1141 pages
+    1963: 307 issues, 1257 pages
+    1964: 312 issues, 1334 pages
+    1965: 332 issues, 1404 pages
+
+
+UW - University of Washington
+--------------------------------------------------------------------------------
+
+CWN - Central Weekly News (krung dbyang gsar 'gyur)
+  Issues: 28
+  Pages: 240
+  Years: 1963, 1964
+  Coverage: 1963-1964
+  Shelfmarks: 99133499060001452
+  Year-by-year:
+    1963: 26 issues, 224 pages
+    1964: 2 issues, 16 pages
+
+
+================================================================================
+HOLDINGS BY NEWSPAPER (ACROSS ALL LIBRARIES)
+================================================================================
+
+
+CWN - Central Weekly News (krung dbyang gsar 'gyur)
+--------------------------------------------------------------------------------
+Held by 1 library: UW (University of Washington)
+
+  UW - University of Washington:
+    Issues: 28
+    Pages: 240
+    Years: 1963, 1964
+    Shelfmarks: 99133499060001452
+
+
+DTF - Defend Tibet's Freedom (rang dbang srung skyob gsar shog)
+--------------------------------------------------------------------------------
+Held by 2 libraries: CU (Columbia University, New York), IT (University of Vienna)
+
+  CU - Columbia University, New York:
+    Issues: 12
+    Pages: 70
+    Years: 1964, 1965
+    Shelfmarks: AN6.T6.R36
+
+  IT - University of Vienna:
+    Issues: 14
+    Pages: 240
+    Years: 1963
+    Shelfmarks: AC16810250
+
+
+FRD - Freedom (rang dbang gsar shog)
+--------------------------------------------------------------------------------
+Held by 2 libraries: BD (Bodleian Library, Oxford), IT (University of Vienna)
+
+  BD - Bodleian Library, Oxford:
+    Issues: 6
+    Pages: 40
+    Years: 1960
+    Shelfmarks: Driver
+
+  IT - University of Vienna:
+    Issues: 199
+    Pages: 1420
+    Years: 1961, 1962, 1963, 1964, 1965
+    Shelfmarks: AC16809715
+
+
+GDN - Ganze Daily (dkar mdzes nyin re'i gsar 'gyur)
+--------------------------------------------------------------------------------
+Held by 2 libraries: OI (Oriental Institute, Prague), RB (Private Collection (Robert Barnett))
+
+  OI - Oriental Institute, Prague:
+    Issues: 73
+    Pages: 290
+    Years: 1959
+    Shelfmarks: RB, XIV92-1959
+
+  RB - Private Collection (Robert Barnett):
+    Issues: 2
+    Pages: 14
+    Years: 1959
+
+
+GTN - Gyantse News (rgyal rtse gsar 'gyur)
+--------------------------------------------------------------------------------
+Held by 1 library: LT (Library of Tibetan Works and Archives)
+
+  LT - Library of Tibetan Works and Archives:
+    Issues: 1
+    Pages: 4
+    Years: 1954
+
+
+KDN - Kangding News (dar mdo'i gsar 'gyur)
+--------------------------------------------------------------------------------
+Held by 1 library: MV (Grassi Museum für Völkerkunde, Leipzig)
+
+  MV - Grassi Museum für Völkerkunde, Leipzig:
+    Issues: 15
+    Pages: 60
+    Years: 1954, 1955
+    Shelfmarks: ASZAG10
+
+
+MJN - Minjiang News (min kyang tshags dpar)
+--------------------------------------------------------------------------------
+Held by 2 libraries: MV (Grassi Museum für Völkerkunde, Leipzig), OI (Oriental Institute, Prague)
+
+  MV - Grassi Museum für Völkerkunde, Leipzig:
+    Issues: 56
+    Pages: 224
+    Years: 1953, 1954, 1955
+    Shelfmarks: ASZAG8
+
+  OI - Oriental Institute, Prague:
+    Issues: 27
+    Pages: 121
+    Years: 1959
+    Shelfmarks: XIV93-1959
+
+
+NIB - News in Brief (gsar 'gyur mdor bsdus)
+--------------------------------------------------------------------------------
+Held by 3 libraries: CU (Columbia University, New York), LT (Library of Tibetan Works and Archives), MV (Grassi Museum für Völkerkunde, Leipzig)
+
+  CU - Columbia University, New York:
+    Issues: 6
+    Pages: 24
+    Years: 1954, 1955
+    Shelfmarks:  AN6.T6G76
+
+  LT - Library of Tibetan Works and Archives:
+    Issues: 2
+    Pages: 16
+    Years: 1953
+
+  MV - Grassi Museum für Völkerkunde, Leipzig:
+    Issues: 94
+    Pages: 386
+    Years: 1953, 1954, 1955
+    Shelfmarks: ASZAG9
+
+
+QTN - Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur)
+--------------------------------------------------------------------------------
+Held by 5 libraries: CU (Columbia University, New York), IT (University of Vienna), MV (Grassi Museum für Völkerkunde, Leipzig), OI (Oriental Institute, Prague), SB (Staatsbibliothek zu Berlin)
+
+  CU - Columbia University, New York:
+    Issues: 104
+    Pages: 246
+    Years: 1958
+    Shelfmarks: AN6.T6M4 
+
+  IT - University of Vienna:
+    Issues: 13
+    Pages: 56
+    Years: 1951
+    Shelfmarks: AC16863999
+
+  MV - Grassi Museum für Völkerkunde, Leipzig:
+    Issues: 124
+    Pages: 554
+    Years: 1953, 1954, 1955
+    Shelfmarks: ASZAG12
+
+  OI - Oriental Institute, Prague:
+    Issues: 48
+    Pages: 190
+    Years: 1959
+    Shelfmarks: XIV85-1959
+
+  SB - Staatsbibliothek zu Berlin:
+    Issues: 720
+    Pages: 2710
+    Years: 1952, 1955, 1956, 1957, 1959, 1960, 1963, 1964, 1965
+    Shelfmarks: Zsn128163MR, Zsn128163MR0
+
+
+RNB - RNB
+--------------------------------------------------------------------------------
+Held by 1 library: MV (Grassi Museum für Völkerkunde, Leipzig)
+
+  MV - Grassi Museum für Völkerkunde, Leipzig:
+    Issues: 4
+    Pages: 52
+    Years: 1954, 1955
+    Shelfmarks: Schubert
+
+
+SGN - South Gansu News (kan lho gsar 'gyur)
+--------------------------------------------------------------------------------
+Held by 1 library: OI (Oriental Institute, Prague)
+
+  OI - Oriental Institute, Prague:
+    Issues: 17
+    Pages: 68
+    Years: 1959
+    Shelfmarks: XIV90-1959
+
+
+TDP - Tibet Daily Pictorial (bod ljongs nyin re'i gsar 'gyur par ris)
+--------------------------------------------------------------------------------
+Held by 1 library: OI (Oriental Institute, Prague)
+
+  OI - Oriental Institute, Prague:
+    Issues: 2
+    Pages: 16
+    Years: 1959
+    Shelfmarks: XV 86-1959
+
+
+TID - Tibet Daily (bod ljongs nyin re'i gsar 'gyur)
+--------------------------------------------------------------------------------
+Held by 3 libraries: FR (Private Collection (Françoise Robin)), OI (Oriental Institute, Prague), SB (Staatsbibliothek zu Berlin)
+
+  FR - Private Collection (Françoise Robin):
+    Issues: 25
+    Pages: 82
+    Years: 1958
+
+  OI - Oriental Institute, Prague:
+    Issues: 133
+    Pages: 474
+    Years: 1959
+    Shelfmarks: XIV91-1959
+
+  SB - Staatsbibliothek zu Berlin:
+    Issues: 1562
+    Pages: 6386
+    Years: 1961, 1962, 1963, 1964, 1965
+    Shelfmarks: Zsn128162MR, Zsn128162MR0
+
+
+TIF - Tibetan Freedom (bod mi'i rang dbang)
+--------------------------------------------------------------------------------
+Held by 1 library: IT (University of Vienna)
+
+  IT - University of Vienna:
+    Issues: 248
+    Pages: 730
+    Years: 1965
+    Shelfmarks: AC16864113
+
+
+TIM - Tibet Mirror (yul phyog so so'i gsar 'gyur me long)
+--------------------------------------------------------------------------------
+Held by 3 libraries: CU (Columbia University, New York), IT (University of Vienna), MV (Grassi Museum für Völkerkunde, Leipzig)
+
+  CU - Columbia University, New York:
+    Issues: 40
+    Pages: 625
+    Years: 1950, 1951, 1952, 1953, 1954, 1956, 1958, 1961, 1962
+    Shelfmarks: DS786.A1.Y85, DS786.A1Y85 
+
+  IT - University of Vienna:
+    Issues: 3
+    Pages: 26
+    Years: 1953, 1963
+    Shelfmarks: AC16864150
+
+  MV - Grassi Museum für Völkerkunde, Leipzig:
+    Issues: 68
+    Pages: 752
+    Years: 1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1963
+    Shelfmarks: ASZAG11
+
+
+XMX - XMX
+--------------------------------------------------------------------------------
+Held by 2 libraries: MV (Grassi Museum für Völkerkunde, Leipzig), OI (Oriental Institute, Prague)
+
+  MV - Grassi Museum für Völkerkunde, Leipzig:
+    Issues: 10
+    Pages: 84
+    Years: 1955
+    Shelfmarks: ASZAG7
+
+  OI - Oriental Institute, Prague:
+    Issues: 3
+    Pages: 20
+    Years: 1959
+    Shelfmarks: XIV89-1959
+
+
+ZMX - ZMX
+--------------------------------------------------------------------------------
+Held by 1 library: OI (Oriental Institute, Prague)
+
+  OI - Oriental Institute, Prague:
+    Issues: 3
+    Pages: 10
+    Years: 1959
+    Shelfmarks: XIV88-1959
+

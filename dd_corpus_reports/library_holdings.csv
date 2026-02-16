@@ -1,0 +1,33 @@
+Library_Code,Newspaper_Code,Newspaper_Name,Total_Issues,Total_Pages,Years_Covered,First_Year,Last_Year
+BD,FRD,Freedom (rang dbang gsar shog),6,40,1960,1960,1960
+CU,DTF,Defend Tibet's Freedom (rang dbang srung skyob gsar shog),12,70,"1964, 1965",1964,1965
+CU,NIB,News in Brief (gsar 'gyur mdor bsdus),6,24,"1954, 1955",1954,1955
+CU,QTN,Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur),104,246,1958,1958,1958
+CU,TIM,Tibet Mirror (yul phyog so so'i gsar 'gyur me long),40,625,"1950, 1951, 1952, 1953, 1954, 1956, 1958, 1961, 1962",1950,1962
+FR,TID,Tibet Daily (bod ljongs nyin re'i gsar 'gyur),25,82,1958,1958,1958
+IT,DTF,Defend Tibet's Freedom (rang dbang srung skyob gsar shog),14,240,1963,1963,1963
+IT,FRD,Freedom (rang dbang gsar shog),199,1420,"1961, 1962, 1963, 1964, 1965",1961,1965
+IT,QTN,Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur),13,56,1951,1951,1951
+IT,TIF,Tibetan Freedom (bod mi'i rang dbang),248,730,1965,1965,1965
+IT,TIM,Tibet Mirror (yul phyog so so'i gsar 'gyur me long),3,26,"1953, 1963",1953,1963
+LT,GTN,Gyantse News (rgyal rtse gsar 'gyur),1,4,1954,1954,1954
+LT,NIB,News in Brief (gsar 'gyur mdor bsdus),2,16,1953,1953,1953
+MV,KDN,Kangding News (dar mdo'i gsar 'gyur),15,60,"1954, 1955",1954,1955
+MV,MJN,Minjiang News (min kyang tshags dpar),56,224,"1953, 1954, 1955",1953,1955
+MV,NIB,News in Brief (gsar 'gyur mdor bsdus),94,386,"1953, 1954, 1955",1953,1955
+MV,QTN,Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur),124,554,"1953, 1954, 1955",1953,1955
+MV,RNB,RNB,4,52,"1954, 1955",1954,1955
+MV,TIM,Tibet Mirror (yul phyog so so'i gsar 'gyur me long),68,752,"1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1963",1950,1963
+MV,XMX,XMX,10,84,1955,1955,1955
+OI,GDN,Ganze Daily (dkar mdzes nyin re'i gsar 'gyur),73,290,1959,1959,1959
+OI,MJN,Minjiang News (min kyang tshags dpar),27,121,1959,1959,1959
+OI,QTN,Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur),48,190,1959,1959,1959
+OI,SGN,South Gansu News (kan lho gsar 'gyur),17,68,1959,1959,1959
+OI,TDP,Tibet Daily Pictorial (bod ljongs nyin re'i gsar 'gyur par ris),2,16,1959,1959,1959
+OI,TID,Tibet Daily (bod ljongs nyin re'i gsar 'gyur),133,474,1959,1959,1959
+OI,XMX,XMX,3,20,1959,1959,1959
+OI,ZMX,ZMX,3,10,1959,1959,1959
+RB,GDN,Ganze Daily (dkar mdzes nyin re'i gsar 'gyur),2,14,1959,1959,1959
+SB,QTN,Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur),720,2710,"1952, 1955, 1956, 1957, 1959, 1960, 1963, 1964, 1965",1952,1965
+SB,TID,Tibet Daily (bod ljongs nyin re'i gsar 'gyur),1562,6386,"1961, 1962, 1963, 1964, 1965",1961,1965
+UW,CWN,Central Weekly News (krung dbyang gsar 'gyur),28,240,"1963, 1964",1963,1964

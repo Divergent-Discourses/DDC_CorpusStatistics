@@ -1,0 +1,724 @@
+================================================================================
+MISSING ISSUES ANALYSIS REPORT
+Divergent Discourses Corpus
+================================================================================
+
+Report generated: 2026-02-16 16:42:32
+Corpus location: C:\Users\fxerh\OneDrive\_DIVERGE_materials\Tibetan_Newspapers\_Diverge_Corpus_processed
+
+This report analyzes gaps in the newspaper collection and estimates
+missing issues based on inferred publication frequency.
+
+
+================================================================================
+CWN - Central Weekly News (krung dbyang gsar 'gyur)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 28
+  Date range: 1963-02-12 to 1964-01-12
+  Estimated frequency: Bi-weekly
+  Average gap: 12.4 days
+  Minimum gap: 5 days
+  Maximum gap: 44 days
+
+Gap Analysis:
+  Number of significant gaps: 1
+  Estimated missing issues: 2
+  Estimated collection completeness: 93.3%
+
+Significant Gaps (>28 days):
+
+  Gap #1:
+    From: 1963-03-10
+    To: 1963-04-23
+    Duration: 44 days
+    Estimated missing: ~2 issues
+
+Year-by-Year Coverage:
+
+  1963: 26 issues
+  1964: 2 issues
+
+
+================================================================================
+DTF - Defend Tibet's Freedom (rang dbang srung skyob gsar shog)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 26
+  Date range: 1963-07-31 to 1965-02-17
+  Estimated frequency: Monthly or irregular
+  Average gap: 22.7 days
+  Minimum gap: 7 days
+  Maximum gap: 351 days
+
+Gap Analysis:
+  Number of significant gaps: 1
+  Estimated missing issues: 10
+  Estimated collection completeness: 72.2%
+
+Significant Gaps (>60 days):
+
+  Gap #1:
+    From: 1963-12-10
+    To: 1964-11-25
+    Duration: 351 days
+    Estimated missing: ~10 issues
+
+Year-by-Year Coverage:
+
+  1963: 14 issues
+  1964: 5 issues
+  1965: 7 issues
+
+
+================================================================================
+FRD - Freedom (rang dbang gsar shog)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 205
+  Date range: 1960-05-25 to 1965-03-05
+  Estimated frequency: Bi-weekly
+  Average gap: 8.6 days
+  Minimum gap: 1 days
+  Maximum gap: 154 days
+
+Gap Analysis:
+  Number of significant gaps: 3
+  Estimated missing issues: 15
+  Estimated collection completeness: 93.2%
+
+Significant Gaps (>28 days):
+
+  Gap #1:
+    From: 1960-05-25
+    To: 1960-07-10
+    Duration: 46 days
+    Estimated missing: ~2 issues
+
+  Gap #2:
+    From: 1960-09-09
+    To: 1961-02-10
+    Duration: 154 days
+    Estimated missing: ~10 issues
+
+  Gap #3:
+    From: 1961-02-16
+    To: 1961-04-14
+    Duration: 57 days
+    Estimated missing: ~3 issues
+
+Year-by-Year Coverage:
+
+  1960: 6 issues
+  1961: 40 issues
+  1962: 49 issues
+  1963: 51 issues
+  1964: 51 issues
+  1965: 8 issues
+
+
+================================================================================
+GDN - Ganze Daily (dkar mdzes nyin re'i gsar 'gyur)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 74
+  Date range: 1959-01-01 to 1959-10-31
+  Estimated frequency: Weekly
+  Average gap: 4.2 days
+  Minimum gap: 1 days
+  Maximum gap: 213 days
+
+Gap Analysis:
+  Number of significant gaps: 1
+  Estimated missing issues: 29
+  Estimated collection completeness: 71.8%
+
+Significant Gaps (>14 days):
+
+  Gap #1:
+    From: 1959-03-31
+    To: 1959-10-30
+    Duration: 213 days
+    Estimated missing: ~29 issues
+
+Year-by-Year Coverage:
+
+  1959: 74 issues
+
+
+================================================================================
+KDN - Kangding News (dar mdo'i gsar 'gyur)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 15
+  Date range: 1954-11-17 to 1955-06-08
+  Estimated frequency: Bi-weekly
+  Average gap: 14.5 days
+  Minimum gap: 5 days
+  Maximum gap: 42 days
+
+Gap Analysis:
+  Number of significant gaps: 1
+  Estimated missing issues: 2
+  Estimated collection completeness: 88.2%
+
+Significant Gaps (>28 days):
+
+  Gap #1:
+    From: 1954-12-03
+    To: 1955-01-14
+    Duration: 42 days
+    Estimated missing: ~2 issues
+
+Year-by-Year Coverage:
+
+  1954: 2 issues
+  1955: 13 issues
+
+
+================================================================================
+MJN - Minjiang News (min kyang tshags dpar)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 83
+  Date range: 1953-06-10 to 1959-03-28
+  Estimated frequency: Monthly or irregular
+  Average gap: 25.8 days
+  Minimum gap: 1 days
+  Maximum gap: 1295 days
+
+Gap Analysis:
+  Number of significant gaps: 2
+  Estimated missing issues: 47
+  Estimated collection completeness: 63.8%
+
+Significant Gaps (>60 days):
+
+  Gap #1:
+    From: 1954-07-21
+    To: 1955-01-22
+    Duration: 185 days
+    Estimated missing: ~5 issues
+
+  Gap #2:
+    From: 1955-06-16
+    To: 1959-01-01
+    Duration: 1295 days
+    Estimated missing: ~42 issues
+
+Year-by-Year Coverage:
+
+  1953: 23 issues
+  1954: 9 issues
+  1955: 24 issues
+  1959: 27 issues
+
+
+================================================================================
+NIB - News in Brief (gsar 'gyur mdor bsdus)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 102
+  Date range: 1953-12-01 to 1955-06-04
+  Estimated frequency: Weekly
+  Average gap: 5.4 days
+  Minimum gap: 3 days
+  Maximum gap: 15 days
+
+Gap Analysis:
+  Number of significant gaps: 1
+  Estimated missing issues: 1
+  Estimated collection completeness: 99.0%
+
+Significant Gaps (>14 days):
+
+  Gap #1:
+    From: 1955-02-06
+    To: 1955-02-21
+    Duration: 15 days
+    Estimated missing: ~1 issues
+
+Year-by-Year Coverage:
+
+  1953: 6 issues
+  1954: 66 issues
+  1955: 30 issues
+
+
+================================================================================
+QTN - Qinghai Tibetan News (mtsho sngon bod yig gsar 'gyur)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 1009
+  Date range: 1951-09-16 to 1965-12-30
+  Estimated frequency: Weekly
+  Average gap: 5.2 days
+  Minimum gap: 1 days
+  Maximum gap: 734 days
+
+Gap Analysis:
+  Number of significant gaps: 3
+  Estimated missing issues: 130
+  Estimated collection completeness: 88.6%
+
+Significant Gaps (>14 days):
+
+  Gap #1:
+    From: 1951-12-29
+    To: 1952-07-05
+    Duration: 189 days
+    Estimated missing: ~26 issues
+
+  Gap #2:
+    From: 1955-09-28
+    To: 1955-10-14
+    Duration: 16 days
+    Estimated missing: ~1 issues
+
+  Gap #3:
+    From: 1960-12-29
+    To: 1963-01-02
+    Duration: 734 days
+    Estimated missing: ~103 issues
+
+Year-by-Year Coverage:
+
+  1951: 13 issues
+  1952: 26 issues
+  1953: 50 issues
+  1954: 48 issues
+  1955: 46 issues
+  1956: 70 issues
+  1957: 104 issues
+  1958: 104 issues
+  1959: 103 issues
+  1960: 138 issues
+  1963: 102 issues
+  1964: 101 issues
+  1965: 104 issues
+
+
+================================================================================
+RNB - RNB
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 4
+  Date range: 1954-12-08 to 1955-05-23
+  Estimated frequency: Monthly or irregular
+  Average gap: 55.3 days
+  Minimum gap: 12 days
+  Maximum gap: 82 days
+
+Gap Analysis:
+  Number of significant gaps: 2
+  Estimated missing issues: 2
+  Estimated collection completeness: 66.7%
+
+Significant Gaps (>60 days):
+
+  Gap #1:
+    From: 1954-12-20
+    To: 1955-03-02
+    Duration: 72 days
+    Estimated missing: ~1 issues
+
+  Gap #2:
+    From: 1955-03-02
+    To: 1955-05-23
+    Duration: 82 days
+    Estimated missing: ~1 issues
+
+Year-by-Year Coverage:
+
+  1954: 2 issues
+  1955: 2 issues
+
+
+================================================================================
+SGN - South Gansu News (kan lho gsar 'gyur)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 17
+  Date range: 1959-01-08 to 1959-03-28
+  Estimated frequency: Weekly
+  Average gap: 4.9 days
+  Minimum gap: 3 days
+  Maximum gap: 6 days
+
+Gap Analysis:
+  No significant gaps detected
+  Collection appears relatively complete
+
+Year-by-Year Coverage:
+
+  1959: 17 issues
+
+
+================================================================================
+TDP - Tibet Daily Pictorial (bod ljongs nyin re'i gsar 'gyur par ris)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 2
+  Date range: 1959-01-01 to 1959-05-20
+  Estimated frequency: Monthly or irregular
+  Average gap: 139.0 days
+  Minimum gap: 139 days
+  Maximum gap: 139 days
+
+Gap Analysis:
+  Number of significant gaps: 1
+  Estimated missing issues: 3
+  Estimated collection completeness: 40.0%
+
+Significant Gaps (>60 days):
+
+  Gap #1:
+    From: 1959-01-01
+    To: 1959-05-20
+    Duration: 139 days
+    Estimated missing: ~3 issues
+
+Year-by-Year Coverage:
+
+  1959: 2 issues
+
+
+================================================================================
+TID - Tibet Daily (bod ljongs nyin re'i gsar 'gyur)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 1720
+  Date range: 1958-09-02 to 1965-12-31
+  Estimated frequency: 2-3 times per week
+  Average gap: 1.6 days
+  Minimum gap: 1 days
+  Maximum gap: 554 days
+
+Gap Analysis:
+  Number of significant gaps: 3
+  Estimated missing issues: 215
+  Estimated collection completeness: 88.9%
+
+Significant Gaps (>6 days):
+
+  Gap #1:
+    From: 1958-09-30
+    To: 1959-01-01
+    Duration: 93 days
+    Estimated missing: ~30 issues
+
+  Gap #2:
+    From: 1959-04-01
+    To: 1959-04-11
+    Duration: 10 days
+    Estimated missing: ~2 issues
+
+  Gap #3:
+    From: 1959-06-27
+    To: 1961-01-01
+    Duration: 554 days
+    Estimated missing: ~183 issues
+
+Year-by-Year Coverage:
+
+  1958: 25 issues
+  1959: 133 issues
+  1961: 308 issues
+  1962: 303 issues
+  1963: 307 issues
+  1964: 312 issues
+  1965: 332 issues
+
+
+================================================================================
+TIF - Tibetan Freedom (bod mi'i rang dbang)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 248
+  Date range: 1965-03-09 to 1965-12-31
+  Estimated frequency: Daily
+  Average gap: 1.2 days
+  Minimum gap: 1 days
+  Maximum gap: 3 days
+
+Gap Analysis:
+  Number of significant gaps: 3
+  Estimated missing issues: 6
+  Estimated collection completeness: 97.6%
+
+Significant Gaps (>2 days):
+
+  Gap #1:
+    From: 1965-11-13
+    To: 1965-11-16
+    Duration: 3 days
+    Estimated missing: ~2 issues
+
+  Gap #2:
+    From: 1965-12-21
+    To: 1965-12-24
+    Duration: 3 days
+    Estimated missing: ~2 issues
+
+  Gap #3:
+    From: 1965-12-27
+    To: 1965-12-30
+    Duration: 3 days
+    Estimated missing: ~2 issues
+
+Year-by-Year Coverage:
+
+  1965: 248 issues
+
+
+================================================================================
+TIM - Tibet Mirror (yul phyog so so'i gsar 'gyur me long)
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 110
+  Date range: 1950-01-01 to 1963-11-01
+  Estimated frequency: Monthly or irregular
+  Average gap: 46.3 days
+  Minimum gap: 7 days
+  Maximum gap: 365 days
+
+Gap Analysis:
+  Number of significant gaps: 25
+  Estimated missing issues: 54
+  Estimated collection completeness: 67.1%
+
+Significant Gaps (>60 days):
+
+  Gap #1:
+    From: 1950-04-01
+    To: 1950-06-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #2:
+    From: 1950-12-01
+    To: 1951-07-01
+    Duration: 212 days
+    Estimated missing: ~6 issues
+
+  Gap #3:
+    From: 1952-05-01
+    To: 1952-07-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #4:
+    From: 1952-10-01
+    To: 1952-12-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #5:
+    From: 1953-01-01
+    To: 1953-04-01
+    Duration: 90 days
+    Estimated missing: ~2 issues
+
+  Gap #6:
+    From: 1953-09-01
+    To: 1953-11-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #7:
+    From: 1954-04-01
+    To: 1954-06-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #8:
+    From: 1955-01-12
+    To: 1955-10-01
+    Duration: 262 days
+    Estimated missing: ~7 issues
+
+  Gap #9:
+    From: 1955-11-01
+    To: 1956-01-21
+    Duration: 81 days
+    Estimated missing: ~1 issues
+
+  Gap #10:
+    From: 1956-04-01
+    To: 1956-07-01
+    Duration: 91 days
+    Estimated missing: ~2 issues
+
+  Gap #11:
+    From: 1956-11-24
+    To: 1957-05-14
+    Duration: 171 days
+    Estimated missing: ~4 issues
+
+  Gap #12:
+    From: 1957-11-01
+    To: 1958-01-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #13:
+    From: 1958-07-01
+    To: 1958-09-01
+    Duration: 62 days
+    Estimated missing: ~1 issues
+
+  Gap #14:
+    From: 1958-09-01
+    To: 1958-11-24
+    Duration: 84 days
+    Estimated missing: ~1 issues
+
+  Gap #15:
+    From: 1959-07-01
+    To: 1959-09-01
+    Duration: 62 days
+    Estimated missing: ~1 issues
+
+  Gap #16:
+    From: 1959-09-01
+    To: 1959-11-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #17:
+    From: 1959-11-01
+    To: 1960-01-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #18:
+    From: 1960-04-01
+    To: 1960-06-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #19:
+    From: 1960-06-01
+    To: 1960-08-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #20:
+    From: 1960-08-01
+    To: 1960-10-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #21:
+    From: 1961-05-01
+    To: 1961-08-01
+    Duration: 92 days
+    Estimated missing: ~2 issues
+
+  Gap #22:
+    From: 1961-09-01
+    To: 1961-12-01
+    Duration: 91 days
+    Estimated missing: ~2 issues
+
+  Gap #23:
+    From: 1961-12-01
+    To: 1962-12-01
+    Duration: 365 days
+    Estimated missing: ~11 issues
+
+  Gap #24:
+    From: 1963-05-01
+    To: 1963-07-01
+    Duration: 61 days
+    Estimated missing: ~1 issues
+
+  Gap #25:
+    From: 1963-07-01
+    To: 1963-10-01
+    Duration: 92 days
+    Estimated missing: ~2 issues
+
+Year-by-Year Coverage:
+
+  1950: 10 issues
+  1951: 6 issues
+  1952: 10 issues
+  1953: 9 issues
+  1954: 16 issues
+  1955: 3 issues
+  1956: 9 issues
+  1957: 6 issues
+  1958: 9 issues
+  1959: 8 issues
+  1960: 8 issues
+  1961: 7 issues
+  1962: 1 issues
+  1963: 8 issues
+
+
+================================================================================
+XMX - XMX
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 13
+  Date range: 1955-04-01 to 1959-03-31
+  Estimated frequency: Monthly or irregular
+  Average gap: 121.7 days
+  Minimum gap: 7 days
+  Maximum gap: 1353 days
+
+Gap Analysis:
+  Number of significant gaps: 1
+  Estimated missing issues: 44
+  Estimated collection completeness: 22.8%
+
+Significant Gaps (>60 days):
+
+  Gap #1:
+    From: 1955-06-11
+    To: 1959-02-23
+    Duration: 1353 days
+    Estimated missing: ~44 issues
+
+Year-by-Year Coverage:
+
+  1955: 10 issues
+  1959: 3 issues
+
+
+================================================================================
+ZMX - ZMX
+================================================================================
+
+Collection Overview:
+  Issues in corpus: 3
+  Date range: 1959-04-18 to 1959-05-13
+  Estimated frequency: Bi-weekly
+  Average gap: 12.5 days
+  Minimum gap: 12 days
+  Maximum gap: 13 days
+
+Gap Analysis:
+  No significant gaps detected
+  Collection appears relatively complete
+
+Year-by-Year Coverage:
+
+  1959: 3 issues
+
