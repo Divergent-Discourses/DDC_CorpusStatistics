@@ -3,12 +3,14 @@
 from setuptools import setup
 
 # Read the long description from README
-with open("README.md", "r", encoding="utf-8") as fh:
-    long_description = fh.read()
+try:
+    with open("README.md", "r", encoding="utf-8") as fh:
+        long_description = fh.read()
+except FileNotFoundError:
+    long_description = "Analysis tools for the Divergent Discourses Tibetan Newspaper Corpus"
 
 setup(
     name="dd-corpus-tools",
-    use_scm_version=False,
     version="1.0.0",
     long_description=long_description,
     long_description_content_type="text/markdown",

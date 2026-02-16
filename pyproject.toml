@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -52,9 +52,9 @@ all = ["openpyxl>=3.0.0"]
 
 [project.urls]
 Homepage = "https://research.uni-leipzig.de/diverge/"
-Documentation = "https://github.com/Divergent-Discourses/corpus-analysis-tools/tree/main/docs"
-Repository = "https://github.com/Divergent-Discourses/corpus-analysis-tools"
-"Bug Tracker" = "https://github.com/Divergent-Discourses/corpus-analysis-tools/issues"
+Documentation = "https://github.com/Divergent-Discourses/DDC_CorpusStatistics/tree/main/docs"
+Repository = "https://github.com/Divergent-Discourses/DDC_CorpusStatistics"
+"Bug Tracker" = "https://github.com/Divergent-Discourses/DDC_CorpusStatistics/issues"
 
 [project.scripts]
 dd-analyze = "dd_corpus_tools.cli:main_analyze"
