@@ -18,7 +18,10 @@ class LibraryHoldingsReporter(NewspaperCorpusAnalyzer):
     
     def generate_library_holdings_report(self, output_file='library_holdings_report.txt'):
         """Generate a detailed text report on library holdings"""
-        output_path = Path(output_file)
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        output_path = output_dir / output_file
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write("=" * 80 + "\n")
@@ -122,7 +125,10 @@ class LibraryHoldingsReporter(NewspaperCorpusAnalyzer):
     
     def generate_missing_issues_report(self, output_file='missing_issues_report.txt'):
         """Generate a detailed text report on missing issues"""
-        output_path = Path(output_file)
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        output_path = output_dir / output_file
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write("=" * 80 + "\n")

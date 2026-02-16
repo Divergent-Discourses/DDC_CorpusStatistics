@@ -81,7 +81,10 @@ class ConsolidatedExporter(NewspaperCorpusAnalyzer):
     
     def export_consolidated_csv(self, output_file='corpus_pivot_table_data.csv'):
         """Export consolidated issue-level data for pivot table analysis"""
-        output_path = Path(output_file)
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        output_path = output_dir / output_file
         
         print(f"Generating consolidated CSV for pivot table analysis...")
         
@@ -186,7 +189,11 @@ class ConsolidatedExporter(NewspaperCorpusAnalyzer):
             print("Skipping Excel workbook generation.")
             return None
         
-        output_path = Path(output_file)
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        output_path = output_dir / output_file
+        
         print(f"Generating Excel workbook with multiple sheets...")
         
         wb = openpyxl.Workbook()

@@ -386,6 +386,10 @@ class NewspaperCorpusAnalyzer:
         """Export all statistics to a JSON file"""
         from datetime import datetime
         
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        
         output = {
             'summary': {
                 'total_newspapers': len(self.data),
@@ -446,7 +450,7 @@ class NewspaperCorpusAnalyzer:
                     } if years else None
                 }
         
-        output_path = Path(output_file)
+        output_path = output_dir / output_file
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
         

@@ -142,7 +142,10 @@ class AdvancedCorpusAnalyzer(NewspaperCorpusAnalyzer):
     
     def export_detailed_csv(self, output_file='corpus_detailed.csv'):
         """Export detailed page-level data to CSV"""
-        output_path = Path(output_file)
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        output_path = output_dir / output_file
         
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
@@ -172,7 +175,10 @@ class AdvancedCorpusAnalyzer(NewspaperCorpusAnalyzer):
     
     def export_issues_csv(self, output_file='corpus_issues.csv'):
         """Export issue-level summary to CSV"""
-        output_path = Path(output_file)
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        output_path = output_dir / output_file
         
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
@@ -209,7 +215,10 @@ class AdvancedCorpusAnalyzer(NewspaperCorpusAnalyzer):
     
     def export_library_holdings_csv(self, output_file='library_holdings.csv'):
         """Export detailed library holdings to CSV"""
-        output_path = Path(output_file)
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        output_path = output_dir / output_file
         
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
@@ -243,7 +252,10 @@ class AdvancedCorpusAnalyzer(NewspaperCorpusAnalyzer):
         """Export missing issues analysis to CSV"""
         from datetime import datetime
         
-        output_path = Path(output_file)
+        # Create output directory
+        output_dir = Path('dd_corpus_reports')
+        output_dir.mkdir(exist_ok=True)
+        output_path = output_dir / output_file
         
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
