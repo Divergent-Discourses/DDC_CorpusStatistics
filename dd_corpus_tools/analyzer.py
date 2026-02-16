@@ -11,7 +11,7 @@ from collections import defaultdict, Counter
 from datetime import datetime
 import json
 
-from .constants import NEWSPAPER_NAMES, VALID_EXTENSIONS, FILENAME_PATTERN
+from .constants import NEWSPAPER_NAMES, VALID_EXTENSIONS, FILENAME_PATTERN, LIBRARY_CODES
 
 class NewspaperCorpusAnalyzer:
     """Analyzer for the Divergent Discourses newspaper corpus"""
@@ -27,6 +27,7 @@ class NewspaperCorpusAnalyzer:
         self.libraries = defaultdict(lambda: defaultdict(int))  # library -> newspaper -> count
         self.library_issues = defaultdict(lambda: defaultdict(set))  # library -> newspaper -> set of dates
         self.library_years = defaultdict(lambda: defaultdict(set))  # library -> newspaper -> set of years
+        self.shelfmarks = defaultdict(lambda: defaultdict(set))  # library -> newspaper -> set of shelfmarks
         
     def parse_filename(self, filename):
         """
@@ -93,6 +94,10 @@ class NewspaperCorpusAnalyzer:
                 self.libraries[library][newspaper] += 1
                 self.library_issues[library][newspaper].add(date)
                 self.library_years[library][newspaper].add(year)
+                
+                # Track shelfmarks
+                if parsed['shelfmark']:
+                    self.shelfmarks[library][newspaper].add(parsed['shelfmark'])
             else:
                 invalid_files.append(str(img_file.name))
         
@@ -216,20 +221,27 @@ class NewspaperCorpusAnalyzer:
         print("=" * 80)
         
         for library in sorted(self.libraries.keys()):
+            library_name = LIBRARY_CODES.get(library, library)
             total_pages = sum(self.libraries[library].values())
             total_issues = sum(len(self.library_issues[library][np]) for np in self.library_issues[library])
             newspapers_count = len(self.libraries[library])
             
-            print(f"\n{library} - Total: {newspapers_count} newspapers, {total_issues} issues, {total_pages} pages")
+            print(f"\n{library} - {library_name}")
+            print(f"Total: {newspapers_count} newspapers, {total_issues} issues, {total_pages} pages")
             print("-" * 80)
             
             for newspaper in sorted(self.libraries[library].keys()):
+                newspaper_name = NEWSPAPER_NAMES.get(newspaper, newspaper)
                 pages = self.libraries[library][newspaper]
                 issues = len(self.library_issues[library][newspaper])
                 years = sorted(self.library_years[library][newspaper])
                 year_range = f"{min(years)}-{max(years)}" if len(years) > 1 else str(years[0])
                 
-                print(f"  {newspaper}: {issues} issues, {pages} pages ({year_range})")
+                # Get shelfmarks for this library-newspaper combination
+                shelfmarks = sorted(self.shelfmarks[library][newspaper])
+                shelfmark_display = f" [Shelfmarks: {', '.join(shelfmarks)}]" if shelfmarks else ""
+                
+                print(f"  {newspaper} - {newspaper_name}: {issues} issues, {pages} pages ({year_range}){shelfmark_display}")
         
         print()
     
@@ -239,12 +251,18 @@ class NewspaperCorpusAnalyzer:
         print("=" * 80)
         
         for library in sorted(self.libraries.keys()):
-            print(f"\n{library}")
+            library_name = LIBRARY_CODES.get(library, library)
+            print(f"\n{library} - {library_name}")
             print("-" * 80)
             
             for newspaper in sorted(self.libraries[library].keys()):
-                name = NEWSPAPER_NAMES.get(newspaper, newspaper)
-                print(f"\n  {newspaper} - {name}")
+                newspaper_name = NEWSPAPER_NAMES.get(newspaper, newspaper)
+                print(f"\n  {newspaper} - {newspaper_name}")
+                
+                # Get shelfmarks
+                shelfmarks = sorted(self.shelfmarks[library][newspaper])
+                if shelfmarks:
+                    print(f"    Shelfmarks: {', '.join(shelfmarks)}")
                 
                 # Get all years for this newspaper from this library
                 years = sorted(self.library_years[library][newspaper])

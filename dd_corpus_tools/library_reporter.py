@@ -10,7 +10,7 @@ from datetime import datetime
 import csv
 
 from .analyzer import NewspaperCorpusAnalyzer
-from .constants import NEWSPAPER_NAMES
+from .constants import NEWSPAPER_NAMES, LIBRARY_CODES
 
 
 class LibraryHoldingsReporter(NewspaperCorpusAnalyzer):
@@ -35,12 +35,13 @@ class LibraryHoldingsReporter(NewspaperCorpusAnalyzer):
             f.write("=" * 80 + "\n\n")
             
             for library in sorted(self.libraries.keys()):
+                library_name = LIBRARY_CODES.get(library, library)
                 total_newspapers = len(self.libraries[library])
                 total_issues = sum(len(self.library_issues[library][np]) 
                                  for np in self.library_issues[library])
                 total_pages = sum(self.libraries[library].values())
                 
-                f.write(f"{library}\n")
+                f.write(f"{library} - {library_name}\n")
                 f.write(f"  Newspapers: {total_newspapers}\n")
                 f.write(f"  Issues: {total_issues}\n")
                 f.write(f"  Pages: {total_pages}\n\n")
@@ -51,7 +52,8 @@ class LibraryHoldingsReporter(NewspaperCorpusAnalyzer):
             f.write("=" * 80 + "\n\n")
             
             for library in sorted(self.libraries.keys()):
-                f.write(f"\n{library}\n")
+                library_name = LIBRARY_CODES.get(library, library)
+                f.write(f"\n{library} - {library_name}\n")
                 f.write("-" * 80 + "\n\n")
                 
                 for newspaper in sorted(self.libraries[library].keys()):
@@ -65,6 +67,11 @@ class LibraryHoldingsReporter(NewspaperCorpusAnalyzer):
                     f.write(f"  Pages: {pages}\n")
                     f.write(f"  Years: {', '.join(map(str, years))}\n")
                     f.write(f"  Coverage: {min(years)}-{max(years)}\n")
+                    
+                    # Show shelfmarks if available
+                    shelfmarks = sorted(self.shelfmarks[library][newspaper])
+                    if shelfmarks:
+                        f.write(f"  Shelfmarks: {', '.join(shelfmarks)}\n")
                     
                     # Year-by-year breakdown
                     f.write(f"  Year-by-year:\n")
@@ -90,17 +97,25 @@ class LibraryHoldingsReporter(NewspaperCorpusAnalyzer):
                 holding_libraries = [lib for lib in self.libraries 
                                    if newspaper in self.libraries[lib]]
                 
-                f.write(f"Held by {len(holding_libraries)} libraries: {', '.join(sorted(holding_libraries))}\n\n")
+                library_names = [f"{lib} ({LIBRARY_CODES.get(lib, lib)})" for lib in sorted(holding_libraries)]
+                f.write(f"Held by {len(holding_libraries)} {'library' if len(holding_libraries) == 1 else 'libraries'}: {', '.join(library_names)}\n\n")
                 
                 for library in sorted(holding_libraries):
+                    library_name = LIBRARY_CODES.get(library, library)
                     issues = len(self.library_issues[library][newspaper])
                     pages = self.libraries[library][newspaper]
                     years = sorted(self.library_years[library][newspaper])
                     
-                    f.write(f"  {library}:\n")
+                    f.write(f"  {library} - {library_name}:\n")
                     f.write(f"    Issues: {issues}\n")
                     f.write(f"    Pages: {pages}\n")
-                    f.write(f"    Years: {', '.join(map(str, years))}\n\n")
+                    f.write(f"    Years: {', '.join(map(str, years))}\n")
+                    
+                    # Show shelfmarks if available
+                    shelfmarks = sorted(self.shelfmarks[library][newspaper])
+                    if shelfmarks:
+                        f.write(f"    Shelfmarks: {', '.join(shelfmarks)}\n")
+                    f.write("\n")
         
         print(f"Library holdings report saved to: {output_path.absolute()}")
         return output_path
